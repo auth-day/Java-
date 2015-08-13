@@ -1,0 +1,15 @@
+
+public class Univ
+{
+    public static void main(String args[])
+    {
+        Student start = new Student();
+        start.IntroFirst();
+        start.Intro();
+        start.Starting();
+        
+    }
+
+
+}
+
